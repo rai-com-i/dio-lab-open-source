@@ -1,5 +1,5 @@
 # RAI_COM_I
-Sou estudante de engenharia e tentando me conectar mais com essa área tech
+Sou estudante de engenharia e estou tentando me conectar mais com a área tech
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ra%C3%AD-abreu-machado-633a8b281/) 
